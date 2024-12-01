@@ -10,7 +10,7 @@
 ## 슬로건
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&family=Lobster&display=swap" rel="stylesheet">
 
-<div style="font-family: 'Lobster', cursive; font-size: 24px; color: #e67e22;">
+<div style="font-family: 'Lobster', cursive; font-size: 24px; color: #34495e;">
 ✨ 포기하지 않고 한 걸음씩! ✨
 </div>
 
