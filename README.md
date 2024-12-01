@@ -1,35 +1,92 @@
-# Welcome to GitHub
+# 💛 팀 소개 💛
 
-유레카 프로젝트 팀 생성을 축하합니다.
+유레카프로젝트 2분반 1조입니다.
+---
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+## 슬로건
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&family=Lobster&display=swap" rel="stylesheet">
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
+<div style="font-family: 'Lobster', cursive; font-size: 24px; color: #e67e22;">
+✨ 포기하지 않고 한 걸음씩! ✨
+</div>
 
-## Markdown을 사용하여 내용꾸미기
+<div style="font-family: 'Roboto', sans-serif; font-size: 18px; color: #34495e;">
+각자의 목표를 이루고자 포기하지 말고 <strong>노력하자</strong>는 의미
+</div>
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 팀원
+- 장유민 (팀장)
+- 장운영
+- 장민주
+- 지현우
+- 둘군
+- 창드만
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## 관심사
+- 인공지능, 자바, 웹
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 관심있는 프로그램
+- 융합 전공
+- 해외 프로그램(GREAT 프로그램, 해외 인턴쉽 프로그램)
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Support or Contact
+# 💛 활동 보고 💛
 
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+---
+
+## 교수님 사인
+- 김준호 교수님
+- 이경용 교수님
+- 최은미 교수님
+
+---
+
+## 대학원생 사인
+- 인공지능 연구실
+- 정보 보호 연구실
+
+---
+
+## 활동 사례
+- 행정실 탐방
+- 정보통신처 탐방
+- 멘토링 시스템
+ - 김종필 멘토님
+
+---
+
+# 💛 활동을 통해 알게 된 것들 💛
+- 활동 보고에 적어도 되고 주제를 따로 빼서 이렇게 이 항목에 적어도 됨
+
+---
+
+# 💛 발표 질의응답 💛
+
+---
+
+### 예상한 질문
+- 팀원들과의 협업 과정에서 배운 점
+- 발표한 프로젝트 결과가 향후 진로 계획에 미친 영향
+
+---
+
+### 예상하지 못한 질문
+- "인공지능에 관심이 있다고 하셨는데, 인공지능 학부 대신 소프트웨어 학부를 선택한 이유는 무엇인가요?"
+- "관심이 웹에 있다고 하셨는데, 웹 애플리케이션인지 모바일 애플리케이션인지 궁금합니다."
+
+---
+
+# 💛 소감 💛
+- 평소라면 시도하지 않았을 경험들을 수업을 통해 직접 해볼 수 있어서 유익했음
+- 수업을 통해 알게된 여러 지원을 다음 학기에 적극적으로 활용해보고 싶음
+- 팀원이 여러 명일 때 효율적인 소통 방법에 대해 배웠음
+- 다양한 조언과 경험을 들으며 선택한 직업을 포기하지 않는 것이 중요하다는 것을 깨달음
+
