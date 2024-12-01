@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 36px; font-weight: bold;">
+<div align="center" style="font-size: 30px; font-weight: bold;">
 💛 팀 소개 💛
 </div>
 <div align = "center">
@@ -76,7 +76,7 @@
 
 ---
 
-<div align="center" style="font-size: 36px; font-weight: bold;">
+<div align="center" style="font-size: 30px; font-weight: bold;">
 💛 활동 보고 💛
 </div>
 
@@ -106,12 +106,16 @@
 
 ---
 
-## 💛 활동을 통해 알게 된 것들 💛
+<div align="center" style="font-size: 30px; font-weight: bold;">
+💛 활동을 통해 알게 된 것들 💛
+</div>
 - 활동 보고에 적어도 되고 주제를 따로 빼서 이렇게 이 항목에 적어도 됨
 
 ---
 
-# 💛 소감 💛
+<div align="center" style="font-size: 30px; font-weight: bold;">
+💛 소감 💛
+</div>
 - 평소라면 시도하지 않았을 경험들을 수업을 통해 직접 해볼 수 있어서 유익했음
 - 수업을 통해 알게된 여러 지원을 다음 학기에 적극적으로 활용해보고 싶음
 - 팀원이 여러 명일 때 효율적인 소통 방법에 대해 배웠음
