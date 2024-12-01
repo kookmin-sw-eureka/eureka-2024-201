@@ -5,12 +5,13 @@
 유레카 프로젝트 2분반 1조입니다.
 </div>
 
+
 ---
 
 ### 슬로건
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&family=Lobster&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
 
-<div style="font-family: 'Lobster', cursive; font-size: 24px; color: #34495e;">
+<div style="font-family: 'Nanum Pen Script', cursive; font-size: 24px; color: #34495e;">
 ✨ 포기하지 않고 한 걸음씩! ✨
 </div>
 
