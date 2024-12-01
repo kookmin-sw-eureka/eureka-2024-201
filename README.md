@@ -2,7 +2,7 @@
 💛 팀 소개 💛
 </div>
 <div align = "center">
-유레카프로젝트 2분반 1조입니다.
+![banner](https://drive.google.com/uc?export=view&id=1ziwRTEJJa_lJio2l3SZER32V_XOHMTPs)
 </div>
 
 ---
@@ -65,8 +65,7 @@
 ## 그 외 활동
 - 행정실 탐방 🗹 
 - 정보통신처 탐방 🗹 
-- 멘토링 시스템 🗹 
- - 김종필 멘토님
+- 멘토링 시스템 (김종필 멘토님) 🗹 
 
 ---
 
