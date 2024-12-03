@@ -8,7 +8,7 @@
 
 ---
 
-### 슬로건
+### 슬로건oto
 <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
 
 <div style="font-family: 'Nanum Pen Script', cursive; font-size: 24px; color: #34495e;">
