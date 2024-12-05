@@ -83,6 +83,7 @@
 
 ### 발표
 - 팀 소개 발표 (2024 / 09 / 19) 🗹
+<img src = "https://drive.google.com/file/d/14BbZZQBj5cVvagWVRjsjmpm1JU2USfk_/view?usp=drive_link" alt ="lab_ai" width = "600" height="360"/>
 - 팀 활동 보고 (2024 / 11 / 28) 🗹 
 
 ---
