@@ -84,9 +84,8 @@
 ### 발표
 
 - 팀 소개 발표 (2024 / 09 / 19) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+
 - 팀 활동 보고 (2024 / 11 / 28) 🗹 
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
 
 ---
 
@@ -94,28 +93,28 @@
 - 김준호 교수님 (09 / 30) 🗹
 <img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
 - 이경용 교수님 (10 / 10) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_07.jpg" alt ="이경용 교수님" width = "300" height="180"/>
 - 최은미 교수님 (10 / 16) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_04.jpg" alt ="최은미 교수님" width = "300" height="180"/>
 
 ---
 
 ### 대학원생 사인
 - 인공지능 연구실 (11 / 13) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_01.jpg" alt ="lab_ai" width = "300" height="180"/>
 - 정보 보호 연구실 (11 / 13) 🗹 
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg" alt ="lab_info" width = "300" height="180"/>
 
 ---
 
 ### 그 외 활동
 
 - 행정실 탐방 (10 / 30) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg" alt ="행정실" width = "300" height="180"/>
 - 정보통신처 탐방 (10 / 31) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg" alt ="wjdxhdcj" width = "300" height="180"/>
 - 멘토링 시스템 (김종필 멘토님) (11 / 25) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
+<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png" alt ="mentoring" width = "300" height="180"/>
 
 ---
 
