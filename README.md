@@ -143,7 +143,7 @@
                 <td>인공지능 연구실</td>
                 <td>11 / 13</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_01.jpg" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg?raw=true" 
                          alt="lab_ai" width="300" height="180"/>
                 </td>
             </tr>
