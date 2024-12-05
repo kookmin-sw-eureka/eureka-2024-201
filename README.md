@@ -90,7 +90,8 @@
 ---
 
 ### 교수님 사인
-<thead>
+<table>
+  <thead>
             <tr>
                 <th>교수님</th>
                 <th>날짜</th>
