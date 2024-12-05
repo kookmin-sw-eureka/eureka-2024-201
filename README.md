@@ -302,7 +302,7 @@
 
 ---
 
-<div align="center" style="font-size: 30px; font-weight: bold;">
+<div align="center" style="font-size: 24px; font-weight: bold;">
 💛 발표 때 받은 질의 응답 💛
 </div>
 
