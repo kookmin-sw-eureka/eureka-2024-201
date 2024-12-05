@@ -125,25 +125,79 @@
             </tr>
         </tbody>
     </table>
+    
 ---
 
 ### 대학원생 사인
 - 인공지능 연구실 (11 / 13) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_01.jpg" alt ="lab_ai" width = "300" height="180"/>
-- 정보 보호 연구실 (11 / 13) 🗹 
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg" alt ="lab_info" width = "300" height="180"/>
-
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+        <thead>
+            <tr>
+                <th>연구실</th>
+                <th>날짜</th>
+                <th>이미지</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>인공지능 연구실</td>
+                <td>11 / 13</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_01.jpg" 
+                         alt="lab_ai" width="300" height="180"/>
+                </td>
+            </tr>
+            <tr>
+                <td>정보 보호 연구실</td>
+                <td>11 / 13</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg" 
+                         alt="lab_info" width="300" height="180"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    
 ---
 
 ### 그 외 활동
 
-- 행정실 탐방 (10 / 30) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg" alt ="행정실" width = "300" height="180"/>
-- 정보통신처 탐방 (10 / 31) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg" alt ="wjdxhdcj" width = "300" height="180"/>
-- 멘토링 시스템 (김종필 멘토님) (11 / 25) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png" alt ="mentoring" width = "300" height="180"/>
-
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+        <thead>
+            <tr>
+                <th>활동</th>
+                <th>날짜</th>
+                <th>이미지</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>행정실 탐방</td>
+                <td>10 / 30</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg" 
+                         alt="행정실" width="300" height="180"/>
+                </td>
+            </tr>
+            <tr>
+                <td>정보통신처 탐방</td>
+                <td>10 / 31</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg" 
+                         alt="정보통신처" width="300" height="180"/>
+                </td>
+            </tr>
+            <tr>
+                <td>멘토링 시스템 (김종필 멘토님)</td>
+                <td>11 / 25</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png" 
+                         alt="mentoring" width="300" height="180"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    
 ---
 
 <div align="center" style="font-size: 30px; font-weight: bold;">
