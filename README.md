@@ -175,7 +175,7 @@
                 <td valign="middle">행정실 탐방</td>
                 <td valign="middle">10 / 30</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg?raw=true" 
                          alt="행정실" width="300" height="180"/>
                 </td>
             </tr>
@@ -183,7 +183,7 @@
                 <td valign="middle">정보통신처 탐방</td>
                 <td valign="middle">10 / 31</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg?raw=true" 
                          alt="정보통신처" width="300" height="180"/>
                 </td>
             </tr>
@@ -191,7 +191,7 @@
                 <td valign="middle">멘토링 시스템 (김종필 멘토님)</td>
                 <td valign="middle">11 / 25</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png?raw=true" 
                          alt="mentoring" width="300" height="180"/>
                 </td>
             </tr>
