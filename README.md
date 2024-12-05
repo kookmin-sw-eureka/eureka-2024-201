@@ -151,8 +151,7 @@
                 <td>정보 보호 연구실</td>
                 <td>11 / 13</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg?raw=true
-" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg?raw=true" 
                          alt="lab_info" width="300" height="180"/>
                 </td>
             </tr>
@@ -202,38 +201,113 @@
 ---
 
 <div align="center" style="font-size: 30px; font-weight: bold;">
-💛 활동을 통해 알게 된 것들 💛
+💛 활동을 통해 알게 된 것들(소융대에서 제공하는 기회들) 💛
 </div>
-
+### GREAT Program
 <table>
   <tr>
     <td>Great Program</td>
+    <td>시기 : 방학기간 9주 동안 진행</td>
+    <td>현지 CS/AI 관련 전공 교수 및 대학원생들과 연구를 진행하며 협업 공동 연구 과제 수행
+    지원서 제출 -> 코딩 테스트 -> 면접(인성/기술/영어)</td>
+  </tr>
+</table>
+
+### Career Week
+<table>
+  <tr>
+    <td>Career Week</td>
+    <td>일주일 동안 다양한 행사를 진행하며 진로 탐색</td>
+    <td>- 졸업생 간담회
+    - GREAT Progrm 소감발표회
+    - 글로벌 커리어 워크숍
+    - SW + X day & 잡페어</td>
+  </tr>
+</table>
+
+### 자율주행 경진대회
+<table>
+  <tr>
+    <td>Great Program</td>
+    <td>시기 : 방학기간 9주 동안 진행</td>
+    <td>현지 CS/AI 관련 전공 교수 및 대학원생들과 연구를 진행하며 협업 공동 연구 과제 수행
+    지원서 제출 -> 코딩 테스트 -> 면접(인성/기술/영어)</td>
+  </tr>
+</table>
+
+### 동계 현장실습
+<table>
+  <tr>
+    <td>동계 현장실습</td>
     <td>시기 : 여름방학 9주 동안 진행</td>
     <td>연구를 진행하며 멘토링 & 협업 연구 진행
     지원서 제출 -> 코딩 테스트 -> 면접(인성/기술/영어)</td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>인공지능 분야 진로 준비</td>
-    <td>인공지능에 대한 여러 지식을 전체적으로 아는 것이 좋다.
-    그 후 간단한 경쟁(ex. kaggle 해커톤)에 참여해보는 방식을 추천
-    기초를 쌓은 뒤에는 논문을 읽고, 최신 정보를 따라가는 방향</td>
-  </tr>
-</table>
+### 교과 활동 지원
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead>
+            <tr>
+                <th>활동명</th>
+                <th>내용</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>멘토링</td>
+                <td>
+                    개인/팀 프로젝트 수행에서 발생하는 질의부터 전공과목의 과제 수행과 관련한 질의까지, 
+                    소프트웨어 분야 학습 과정에서 발생하는 의문사항을 각 분야의 멘토들이 도움을 주는 프로그램. 
+                    멘토링 신청 사이트를 통해 신청할 수 있음.
+                </td>
+            </tr>
+            <tr>
+                <td>모각코</td>
+                <td>
+                    모여서 각자 코딩의 줄임말로, 재학생들이 3~5명 팀을 이루어 스터디를 진행하며 매회 모임에 필요한 간식 쿠폰 제공. 
+                    학기 초 모각코 홈페이지(<a href="https://mogako.cs.kookmin.ac.kr/" target="_blank">https://mogako.cs.kookmin.ac.kr/</a>)를 통해 신청할 수 있음.
+                </td>
+            </tr>
+            <tr>
+                <td>코딩 역량 인증제</td>
+                <td>
+                    실무 코딩 역량 향상을 위해 매년 2, 8월에 진행되는 소프트웨어융합대학 코딩 테스트.
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
-교 외 다양하게 경험을 쌓을 수 있는 여러 방법들
-<table>
-  <tr>
-    <td>GDSC</td>
-    <td>소프트웨어 마에스트로</td>
-    <td>코디세이</td>
-    <td>청년취업사관학교 새싹</td>
-    <td>한이음ICT 멘토링</td>
-    <td>그 외 다양한 기업과 단체에서 하는 과정</td>
-  </tr>
-</table>
+### 그 외 다양한 지원들
+  <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead>
+            <tr>
+                <th>활동명</th>
+                <th>내용</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>DLPC</td>
+                <td>
+                    수업 / 연구 목적으로 도입한 공용 GPU 자원을 사용하기 위한 클라우드 서비스. 
+                    DLPC 홈페이지(<a href="https://dlpc.cs.kookmin.ac.kr/" target="_blank">https://dlpc.cs.kookmin.ac.kr/</a>)를 통해 신청 및 사용할 수 있음.
+                </td>
+            </tr>
+            <tr>
+                <td>노트북 대여</td>
+                <td>
+                    실습 시 필요한 리눅스 기반 노트북 대여.
+                </td>
+            </tr>
+            <tr>
+                <td>라즈베리 파이 대여</td>
+                <td>
+                    전공 교과목 실험 실습을 위한 라즈베리파이 대여 지원.
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 ---
 
