@@ -90,13 +90,40 @@
 ---
 
 ### 교수님 사인
-- 김준호 교수님 (09 / 30) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" alt ="lab_ai" width = "300" height="180"/>
-- 이경용 교수님 (10 / 10) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_07.jpg" alt ="이경용 교수님" width = "300" height="180"/>
-- 최은미 교수님 (10 / 16) 🗹
-<img src = "https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_04.jpg" alt ="최은미 교수님" width = "300" height="180"/>
-
+<thead>
+            <tr>
+                <th>교수님</th>
+                <th>날짜</th>
+                <th>이미지</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>김준호 교수님</td>
+                <td>09 / 30</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg" 
+                         alt="lab_ai" width="300" height="180"/>
+                </td>
+            </tr>
+            <tr>
+                <td>이경용 교수님</td>
+                <td>10 / 10</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_07.jpg" 
+                         alt="이경용 교수님" width="300" height="180"/>
+                </td>
+            </tr>
+            <tr>
+                <td>최은미 교수님</td>
+                <td>10 / 16</td>
+                <td>
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_04.jpg" 
+                         alt="최은미 교수님" width="300" height="180"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 ---
 
 ### 대학원생 사인
