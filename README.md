@@ -90,7 +90,7 @@
 ---
 
 ### 교수님 사인
-<table>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
   <thead>
             <tr>
                 <th>교수님</th>
@@ -204,7 +204,7 @@
 💛 활동을 통해 알게 된 것들(소융대에서 제공하는 기회들) 💛
 </div>
 ### GREAT Program
-<table>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <tr>
     <td>Great Program</td>
     <td>시기 : 방학기간 9주 동안 진행</td>
@@ -214,7 +214,7 @@
 </table>
 
 ### Career Week
-<table>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <tr>
     <td>Career Week</td>
     <td>일주일 동안 다양한 행사를 진행하며 진로 탐색</td>
@@ -226,22 +226,13 @@
 </table>
 
 ### 자율주행 경진대회
-<table>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <tr>
-    <td>Great Program</td>
-    <td>시기 : 방학기간 9주 동안 진행</td>
-    <td>현지 CS/AI 관련 전공 교수 및 대학원생들과 연구를 진행하며 협업 공동 연구 과제 수행
-    지원서 제출 -> 코딩 테스트 -> 면접(인성/기술/영어)</td>
-  </tr>
-</table>
-
-### 동계 현장실습
-<table>
-  <tr>
-    <td>동계 현장실습</td>
-    <td>시기 : 여름방학 9주 동안 진행</td>
-    <td>연구를 진행하며 멘토링 & 협업 연구 진행
-    지원서 제출 -> 코딩 테스트 -> 면접(인성/기술/영어)</td>
+    <td>자율주행 경진대회</td>
+    <td>1학기 중 진행
+    3 ~ 5명으로 구성된 팀으로 참가</td>
+    <td>자율주행 분야에서의 경험과 기술 습득을 위한 경진대회
+    참가자들은 1/10 크기의 모형차를 이용하여 다양한 미션이 설치된 트랙에서 차량을 주행시켜야 함.</td>
   </tr>
 </table>
 
