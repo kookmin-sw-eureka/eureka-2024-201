@@ -100,24 +100,24 @@
         </thead>
         <tbody>
             <tr>
-                <td>김준호 교수님</td>
-                <td>09 / 30</td>
+                <td valign="middle">김준호 교수님</td>
+                <td valign="middle">09 / 30</td>
                 <td>
                     <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_06.jpg?raw=true" 
                          alt="lab_ai" width="300" height="180"/>
                 </td>
             </tr>
             <tr>
-                <td>이경용 교수님</td>
-                <td>10 / 10</td>
+                <td valign="middle">이경용 교수님</td>
+                <td valign="middle">10 / 10</td>
                 <td>
                     <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_07.jpg?raw=true" 
                          alt="이경용 교수님" width="300" height="180"/>
                 </td>
             </tr>
             <tr>
-                <td>최은미 교수님</td>
-                <td>10 / 16</td>
+                <td valign="middle">최은미 교수님</td>
+                <td valign="middle">10 / 16</td>
                 <td>
                     <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_04.jpg?raw=true" 
                          alt="최은미 교수님" width="300" height="180"/>
@@ -140,16 +140,16 @@
         </thead>
         <tbody>
             <tr>
-                <td>인공지능 연구실</td>
-                <td>11 / 13</td>
+                <td valign="middle">인공지능 연구실</td>
+                <td valign="middle">11 / 13</td>
                 <td>
                     <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_01.jpg?raw=true" 
                          alt="lab_ai" width="300" height="180"/>
                 </td>
             </tr>
             <tr>
-                <td>정보 보호 연구실</td>
-                <td>11 / 13</td>
+                <td valign="middle">정보 보호 연구실</td>
+                <td valign="middle">11 / 13</td>
                 <td>
                     <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168.jpg?raw=true" 
                          alt="lab_info" width="300" height="180"/>
@@ -172,26 +172,26 @@
         </thead>
         <tbody>
             <tr>
-                <td>행정실 탐방</td>
-                <td>10 / 30</td>
+                <td valign="middle">행정실 탐방</td>
+                <td valign="middle">10 / 30</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg?raw=true" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_03.jpg" 
                          alt="행정실" width="300" height="180"/>
                 </td>
             </tr>
             <tr>
-                <td>정보통신처 탐방</td>
-                <td>10 / 31</td>
+                <td valign="middle">정보통신처 탐방</td>
+                <td valign="middle">10 / 31</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg?raw=true" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_125835168_02.jpg" 
                          alt="정보통신처" width="300" height="180"/>
                 </td>
             </tr>
             <tr>
-                <td>멘토링 시스템 (김종필 멘토님)</td>
-                <td>11 / 25</td>
+                <td valign="middle">멘토링 시스템 (김종필 멘토님)</td>
+                <td valign="middle">11 / 25</td>
                 <td>
-                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png?raw=true" 
+                    <img src="https://github.com/kookmin-sw-eureka/eureka-2024-201/blob/main/KakaoTalk_20241125_190356256.png" 
                          alt="mentoring" width="300" height="180"/>
                 </td>
             </tr>
